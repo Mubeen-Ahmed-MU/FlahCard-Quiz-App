@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406773910333",
+    "project_id": "flashcard-app-cf592",
+    "storage_bucket": "flashcard-app-cf592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406773910333:android:94fa0c6c5ce69165bb1354",
+        "android_client_info": {
+          "package_name": "com.example.flashcard_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByKUZJyJNgjZlmd4FW65HV4xBHbwKtSyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
